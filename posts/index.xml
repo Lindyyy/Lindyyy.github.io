@@ -1,26 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2020 17:48:24 +0800</lastBuildDate>
-    
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Test</title>
-      <link>http://example.org/posts/test/</link>
-      <pubDate>Wed, 29 Jul 2020 17:48:24 +0800</pubDate>
-      
-      <guid>http://example.org/posts/test/</guid>
-      <description>test hellooooo~
+	<channel>
+		<title>Posts on Hugo Hermit</title>
+		<link>https://example.com/posts/</link>
+		<description>Recent content in Posts on Hugo Hermit</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Wed, 29 Jul 2020 17:48:24 +0800</lastBuildDate>
+		<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Test</title>
+			<link>https://example.com/posts/test/</link>
+			<pubDate>Wed, 29 Jul 2020 17:48:24 +0800</pubDate>
+			
+			<guid>https://example.com/posts/test/</guid>
+			<description>test hellooooo~
 111111111
  md文件怎么换行啊！！  </description>
-    </item>
-    
-  </channel>
+			<content type="html"><![CDATA[<p>test
+hellooooo~</p>
+<p>111111111</p>
+<ul>
+<li>md文件怎么换行啊！！</li>
+</ul>
+]]></content>
+		</item>
+		
+	</channel>
 </rss>
