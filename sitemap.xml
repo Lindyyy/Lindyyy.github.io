@@ -18,6 +18,10 @@
   </url>
   
   <url>
+    <loc>https://example.com/posts/%E6%88%91%E5%9C%A8%E8%BF%99%E9%87%8C/</loc>
+  </url>
+  
+  <url>
     <loc>https://example.com/tags/</loc>
   </url>
   
