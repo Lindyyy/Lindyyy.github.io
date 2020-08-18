@@ -23,10 +23,36 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 18 Aug 2020 18:57:46 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2020 19:01:32 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
+        
+            <item>
+                <title>Test</title>
+                <link>https://example.com/_post/test/</link>
+                <guid isPermaLink="true">https://example.com/_post/test/</guid>
+                <pubDate>Tue, 18 Aug 2020 18:32:37 &#43;0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;welcome!&lt;/p&gt;
+&lt;p&gt;I have truned draft from true to false.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
     </channel>
 </rss>
