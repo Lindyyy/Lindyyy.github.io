@@ -23,10 +23,55 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 18 Aug 2020 19:01:32 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2020 21:09:47 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
+        
+            <item>
+                <title>Vim格式化json</title>
+                <link>https://example.com/_post/vim%E6%A0%BC%E5%BC%8F%E5%8C%96json/</link>
+                <guid isPermaLink="true">https://example.com/_post/vim%E6%A0%BC%E5%BC%8F%E5%8C%96json/</guid>
+                <pubDate>Wed, 19 Aug 2020 12:16:08 &#43;0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;最近遇到了将json文件爬过来然后储存到本地文件的问题&lt;/p&gt;
+&lt;p&gt;python保存json文件，可以使用&lt;code&gt;json&lt;/code&gt;函数，在使用之前要导入库函数：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;imprort json&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;函数&lt;/th&gt;
+&lt;th&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;json.dumps&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;将Python对象编码为JSON字符串&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;json.loads&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;将已经编码的JSON字符串解码为Python对象&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Test</title>

@@ -4,12 +4,17 @@
   
   <url>
     <loc>https://example.com/_post/</loc>
-    <lastmod>2020-08-18T19:01:26+08:00</lastmod>
+    <lastmod>2020-08-22T21:09:44+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2020-08-18T19:01:26+08:00</lastmod>
+    <lastmod>2020-08-22T21:09:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/_post/vim%E6%A0%BC%E5%BC%8F%E5%8C%96json/</loc>
+    <lastmod>2020-08-22T21:09:44+08:00</lastmod>
   </url>
   
   <url>

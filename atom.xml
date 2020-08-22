@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Hugo Theme MemE</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-08-18T19:01:32&#43;08:00</updated>
+    <updated>2020-08-22T21:09:47&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,57 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
+        <entry>
+            <title type="text">Vim格式化json</title>
+            <link rel="alternate" type="text/html" href="https://example.com/_post/vim%E6%A0%BC%E5%BC%8F%E5%8C%96json/" />
+            <id>https://example.com/_post/vim%E6%A0%BC%E5%BC%8F%E5%8C%96json/</id>
+            <updated>2020-08-22T21:09:44&#43;08:00</updated>
+            <published>2020-08-19T12:16:08&#43;08:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">最近遇到了将json文件爬过来然后储存到本地文件的问题
+python保存json文件，可以使用json函数，在使用之前要导入库函数：
+imprort json
+   函数 描述     json.dumps 将Python对象编码为JSON字符串   json.loads 将已经编码的JSON字符串解码为Python对象    </summary>
+            
+                <content type="html">&lt;p&gt;最近遇到了将json文件爬过来然后储存到本地文件的问题&lt;/p&gt;
+&lt;p&gt;python保存json文件，可以使用&lt;code&gt;json&lt;/code&gt;函数，在使用之前要导入库函数：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;imprort json&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;函数&lt;/th&gt;
+&lt;th&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;json.dumps&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;将Python对象编码为JSON字符串&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;json.loads&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;将已经编码的JSON字符串解码为Python对象&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Test</title>
             <link rel="alternate" type="text/html" href="https://example.com/_post/test/" />
