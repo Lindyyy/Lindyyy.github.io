@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sat, 22 Aug 2020 21:09:47 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2020 10:37:58 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
@@ -59,6 +59,15 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;python pprint&lt;/li&gt;
+&lt;li&gt;python strip()&lt;/li&gt;
+&lt;li&gt;python 将dict()写入txt/json文件，https://blog.csdn.net/guoweish/article/details/47106263&lt;/li&gt;
+&lt;li&gt;vim中格式化json的命令&lt;code&gt;:%!python -m json.tool&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;git diff&lt;/li&gt;
+&lt;li&gt;python startswith()&lt;/li&gt;
+&lt;li&gt;时间戳&lt;/li&gt;
+&lt;/ul&gt;
 </description>
                 
                 
